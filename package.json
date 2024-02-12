@@ -1,0 +1,31 @@
+{
+  "name": "namaste_react",
+  "version": "1.0.0",
+  "description": "Namaste_React",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shrutigupta431/React_scratch.git"
+  },
+  "keywords": [],
+  "author": "shruti",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Shrutigupta431/React_scratch/issues"
+  },
+  "homepage": "https://github.com/Shrutigupta431/React_scratch#readme",
+  "devDependencies": {
+    "parcel": "^2.11.0",
+    "process": "^0.11.10"
+  },
+  "browsersList": [
+    "Last 2 versions"
+  ],
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
